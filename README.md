@@ -15,7 +15,29 @@ It uses an external API to fetch real-time weather data with a clean and intuiti
 - 🌙 Dark mode support *(optional)*.
 
 ---
+### 🔐 Splash Screen
+<img src="screenshots/splash_view.png" width="300" />
 
+### 🏠 Home Views
+<img src="screenshots/home_view1.png" width="200" />
+<img src="screenshots/home_view2.png" width="200" />
+<img src="screenshots/home_view3.png" width="200" />
+
+### 📍 Location Handling
+<img src="screenshots/get_location.png" width="250" />
+<img src="screenshots/open_location.png" width="250" />
+
+### 🔍 Search View
+<img src="screenshots/search_view.png" width="250" />
+
+### 🧭 Select View
+<img src="screenshots/select_view.png" width="250" />
+
+### 📂 Drawer
+<img src="screenshots/drower.png" width="250" />
+
+### 🖼️ App Icon
+<img src="screenshots/icon.png" width="100" />
 ## 🛠️ Built With
 
 - ✅ **Flutter SDK**
