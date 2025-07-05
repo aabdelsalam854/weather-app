@@ -40,7 +40,7 @@ It uses an external API to fetch real-time weather data with a clean and intuiti
 <img src="screenshot/drower.png" width="250" />
 
 ### 🖼️ App Icon
-<img src="screenshots/icon.png" width="100" />
+<img src="screenshot/icon.png" width="100" />
 
 ---
 
