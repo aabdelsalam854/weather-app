@@ -15,6 +15,9 @@ It uses an external API to fetch real-time weather data with a clean and intuiti
 - 🌙 Dark mode support *(optional)*.
 
 ---
+
+## 📸 Screenshots
+
 ### 🔐 Splash Screen
 <img src="screenshots/splash_view.png" width="300" />
 
@@ -38,6 +41,9 @@ It uses an external API to fetch real-time weather data with a clean and intuiti
 
 ### 🖼️ App Icon
 <img src="screenshots/icon.png" width="100" />
+
+---
+
 ## 🛠️ Built With
 
 - ✅ **Flutter SDK**
@@ -54,5 +60,5 @@ It uses an external API to fetch real-time weather data with a clean and intuiti
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/weather_app.git
-cd weather_app
+git clone https://github.com/aabdelsalam854/weather-app.git
+cd weather-app
